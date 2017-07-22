@@ -35,6 +35,8 @@ int main(){
 	third->next=NULL;
 
 	printList(head);
+	return 0;
+	
 
 
 
